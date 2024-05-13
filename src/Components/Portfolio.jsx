@@ -37,7 +37,7 @@ const projectList = [
     url: "https://github.com/Dhie-boop/Chatbot",
   },
   {
-    title: "Multiple_Disease_Prediction",
+    title: "Multiple_Disease_P",
     description:
       "This application, powered by machine learning algorithms and built using Streamlit, enables users to predict the likelihood of three common diseases: heart disease, Parkinson's disease, and diabetes.",
     url: "https://github.com/Dhie-boop/Multiple_Disease_Prediction_Using_ML",
