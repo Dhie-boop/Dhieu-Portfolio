@@ -49,10 +49,10 @@ const projectList = [
     url: "https://github.com/Dhie-boop/Garbage-collection-website-Django",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My_First_Flutter_App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The application generates cool-sounding names, such as 'newstay', 'lightstream', 'mainbrake', or 'graypine'. The user can ask for the next name, favorite the current one, and review the list of favorited names on a separate page. The app is responsive to different screen sizes.",
+    url: "https://github.com/Dhie-boop/My_Flutter-Apps",
   },
 ];
 
