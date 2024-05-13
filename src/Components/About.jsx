@@ -43,7 +43,7 @@ const skillsList = [
  */
 const detailOrQuote =
   "I'm a driven back-end developer with a knack for tackling complex challenges with innovative solutions. My expertise lies in crafting robust and scalable web applications using Python (Django). I thrive on leveraging my back-end knowledge to create the hidden engines that power seamless user experiences.";
-  "I'm constantly seeking to push boundaries and explore new horizons. Machine Learning (ML) and Artificial Intelligence (AI) represent the future of tech, and I'm eager to integrate their capabilities into my development process.  Envisioning back-end systems that can learn and adapt, I'm excited to contribute to the evolution of intelligent web applications";
+("I'm constantly seeking to push boundaries and explore new horizons. Machine Learning (ML) and Artificial Intelligence (AI) represent the future of tech, and I'm eager to integrate their capabilities into my development process.  Envisioning back-end systems that can learn and adapt, I'm excited to contribute to the evolution of intelligent web applications");
 
 const About = () => {
   return (
