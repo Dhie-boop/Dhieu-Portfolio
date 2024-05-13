@@ -37,10 +37,10 @@ const projectList = [
     url: "https://github.com/Dhie-boop/Chatbot",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Multiple_Disease_Prediction_Using_ML",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This application, powered by machine learning algorithms and built using Streamlit, enables users to predict the likelihood of three common diseases: heart disease, Parkinson's disease, and diabetes.",
+    url: "https://github.com/Dhie-boop/Multiple_Disease_Prediction_Using_ML",
   },
   {
     title: "My Resume Site",
