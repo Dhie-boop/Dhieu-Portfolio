@@ -43,10 +43,10 @@ const projectList = [
     url: "https://github.com/Dhie-boop/Multiple_Disease_Prediction_Using_ML",
   },
   {
-    title: "My Resume Site",
+    title: "Garbage-collection-website-Django",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This Django web application tackles the challenge of waste management by creating a user-friendly platform for both residents and waste collection services.",
+    url: "https://github.com/Dhie-boop/Garbage-collection-website-Django",
   },
   {
     title: "GitHub Codespaces and github.dev",
